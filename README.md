@@ -1,7 +1,4 @@
-<img src="https://avatars.mds.yandex.net/i?id=9faecd261c64a354f616567de6df9343_l-7011592-images-thumbs&n=13" 
-     alt="avatar" 
-     width="280" 
-     style="border-radius: 24px; border: 1px solid #333; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+<img src="https://avatars.mds.yandex.net/i?id=9faecd261c64a354f616567de6df9343_l-7011592-images-thumbs&n=13"/>
      
 # 👋 Привет, я shull1x
 🚀 **17 лет | Full-stack разработчик**  
