@@ -1,11 +1,24 @@
-https://avatars.mds.yandex.net/i?id=9faecd261c64a354f616567de6df9343_l-7011592-images-thumbs&n=13
-# 👋 Привет, я shull1x
-
-🚀 **17 лет | Full-stack разработчик**  
-
-Специализируюсь на создании быстрых и надёжных веб-платформ.  
-**Frontend**: TS, Vue, Nuxt  
-**Backend**: TS (Bun), изучаю Go, а в свободное время — Java и Rust.  
+<!-- Пример блока с картинкой справа. Скопируйте этот код в свой README.md -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        ### 👋 Привет, я shull1x  
+        🚀 **17 лет | Full-stack разработчик**  
+        Специализируюсь на создании быстрых и надёжных веб-платформ.  
+        **Frontend**: TS, Vue, Nuxt  
+        **Backend**: TS (Bun), изучаю Go, а в свободное время — Java и Rust.  
+      </td>
+      <td>
+        <!-- Вставьте сюда актуальную ссылку на ваше изображение -->
+        <img src="https://media.marketrealist.com/brand-img/wnQCyb46H/0x0/6906180119833245784364896865726632515076096n-1650995234734.jpg" 
+             alt="profile-avatar" 
+             width="250" 
+             style="border-radius: 20px; border: 1px solid #444;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
