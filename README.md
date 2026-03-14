@@ -14,14 +14,14 @@
 ### 🧰 Мой технологический стек
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="28" /></a>
-  <a href="https://vuejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="28" /></a>
-  <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="28" /></a>
-  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="28" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="28" /></a>
-  <a href="https://www.djangoproject.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" height="28" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="28" /></a>
-  <a href="https://reactjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="28" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="28" /></a> •
+  <a href="https://vuejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="28" /></a> •
+  <a href="https://go.dev/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="28" /></a> •
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="28" /></a> •
+  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="28" /></a> •
+  <a href="https://www.djangoproject.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg" height="28" /></a> •
+  <a href="https://tailwindcss.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="28" /></a> •
+  <a href="https://reactjs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" height="28" /></a> •
   <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="28" /></a>
 </p>
 
