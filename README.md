@@ -1,3 +1,4 @@
+# <img src="[https://i1-c.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpg](https://i1-c.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpg)" width="100%" height="200" />
 # Привет! Я Full-stack разработчик 👋
 
 Фокусируюсь на создании быстрых, надежных веб-платформ и премиальном UI/UX.
@@ -11,16 +12,16 @@
 
 ### Навыки и инструменты
 
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" /> <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" height="25" />
+<img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)" height="25" /> <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg)" height="25" />
 
 ---
 
 ### Статистика GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toskune&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toskune&theme=vue&hide_border=true&ring=6366f1&fire=6366f1" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=toskune&theme=dark&hide_border=true" width="810" />
+  <source media="(prefers-color-scheme: dark)" srcset="[https://streak-stats.demolab.com?user=toskune&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1](https://streak-stats.demolab.com?user=toskune&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1)" />
+  <source media="(prefers-color-scheme: light)" srcset="[https://streak-stats.demolab.com?user=toskune&theme=vue&hide_border=true&ring=6366f1&fire=6366f1](https://streak-stats.demolab.com?user=toskune&theme=vue&hide_border=true&ring=6366f1&fire=6366f1)" />
+  <img alt="GitHub Streak" src="[https://streak-stats.demolab.com?user=toskune&theme=dark&hide_border=true](https://streak-stats.demolab.com?user=toskune&theme=dark&hide_border=true)" width="810" />
 </picture>
 
 <br/>
