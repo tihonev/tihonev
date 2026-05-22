@@ -27,12 +27,6 @@ Full-stack developer focused on creating fast, reliable web platforms and premiu
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="50%" align="center" valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=vue&hide_border=true&rank_icon=percentile" />
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=toskune&show_icons=true&theme=dark&hide_border=true" width="400" />
-        </picture>
       </td>
       <td width="50%" align="center" valign="top">
         <picture>
