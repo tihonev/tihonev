@@ -24,5 +24,3 @@
 </picture>
 
 <br/>
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=toskune&theme=react-dark&hide_border=true&area=true&area_color=6366f1&color=6366f1&line=6366f1&point=ffffff" width="810" />
