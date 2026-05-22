@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i1-c.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpg" width="100%" alt="Banner" />
-</p>
-
 # Привет! Я Full-stack разработчик 👋
 
 Фокусируюсь на создании быстрых, надежных веб-платформ и премиальном UI/UX.
@@ -14,16 +10,16 @@
 ---
 
 ### Навыки и инструменты
-
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" height="25" />
-
+<p>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" height="25" />
+</p>
 ---
 
 ### Статистика GitHub
