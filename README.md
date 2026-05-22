@@ -1,16 +1,15 @@
-# 🎒 Player Inventory: Ilya Tihonev
+### Привет, я Ilua Tihonev 👋
 
-> *Class: Game Dev / Backend Engineer*
-> *Status: AFK (Away From Keyboard) or Grinding...*
+🕹️ Game Developer & Backend Engineer.  
+Пишу сервера для мультиплеерных игр, проектирую архитектуру и иногда настраиваю CI/CD.  
+*«Хорошие разработчики не нуждаются в представлении, но список технологий не помешает».*
 
-## ⚔️ Main Weapon (Primary Stack)
-- 🗡️ **Engine:** Unity 2022
-- 🛡️ **Backend:** Node.js / Python / C# / C++
-- 🗄️ **Database:** PostgreSQL / MangoDB
+**🛠️ Технологии, с которыми я работаю:**
+- **Языки:** C#, C++, Python, Go, JavaScript/TypeScript
+- **Движки:** Unity 2022
+- **Бэкенд:** Node.js, .NET, Docker, PostgreSQL, Redis, RabbitMQ
+- **Инструменты:** Git, gRPC, REST API
 
-## 🧪 Potions & Scrolls (Tools & Services)
-- Docker, Git, gRPC
-
-## 📜 Completed Quests (Featured Projects)
-- 🕹️ **[Project Name]**: A pixel-art platformer with a focus on...
-- ⚙️ **[Project Name]**: High-load backend for a real-time multiplayer game...
+**🎯 Чем я сейчас занят:**
+- Разрабатываю ???.
+- Углубляюсь в ???.
