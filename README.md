@@ -4,12 +4,12 @@
 > *Status: AFK (Away From Keyboard) or Grinding...*
 
 ## ⚔️ Main Weapon (Primary Stack)
-- 🗡️ **Engine:** Unity / Unreal Engine
-- 🛡️ **Backend:** Node.js / Python / Go
-- 🗄️ **Database:** PostgreSQL / Redis
+- 🗡️ **Engine:** Unity 2022
+- 🛡️ **Backend:** Node.js / Python / C# / C++
+- 🗄️ **Database:** PostgreSQL / MangoDB
 
 ## 🧪 Potions & Scrolls (Tools & Services)
-- Docker, AWS, Git, gRPC
+- Docker, Git, gRPC
 
 ## 📜 Completed Quests (Featured Projects)
 - 🕹️ **[Project Name]**: A pixel-art platformer with a focus on...
