@@ -7,9 +7,8 @@
 *   **Frontend:** TypeScript, Vue, Nuxt, TailwindCSS
 *   **Backend & Инструменты:** Node.js, Bun, Go, Rust, Python, FastAPI, Docker, Arch Linux
 
----
-
 ### Навыки и инструменты
+
 <p>
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="25" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg" height="25" />
@@ -20,7 +19,6 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="25" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" height="25" />
 </p>
----
 
 ### Статистика GitHub
 
