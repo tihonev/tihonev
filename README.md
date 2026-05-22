@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i1-c.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpg" width="75%" alt="Banner" />
+  <img src="https://i1-c.pinimg.com/736x/0a/e9/5a/0ae95a03469fe58971c9c2577579e7d9.jpg" width="100%" alt="Banner" />
 </p>
 
 # Привет! Я Full-stack разработчик 👋
