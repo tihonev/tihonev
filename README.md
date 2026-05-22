@@ -9,9 +9,6 @@
 **Frontend**: TS, Vue, Nuxt  
 **Backend**: TS (Bun), изучаю Go, а в свободное время — Java и Rust.  
 
----
-
-### 🧰 Мой технологический стек
 
 <p align="center">
   <a href="https://www.typescriptlang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" height="28" /></a> •
@@ -25,8 +22,6 @@
   <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" height="28" /></a>
 </p>
 
-### 🔧 Инструментарий и среда
-
 <p align="center">
   <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" height="28" /></a> •
   <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" height="28" /></a> •
@@ -38,10 +33,6 @@
 
 </div>
 
-
-## 📈 GitHub Статистика
-
-<!-- 🔥 Статистика профиля -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
