@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.mds.yandex.net/i?id=44081787b468c3aea2751695e5483129_l-4531115-images-thumbs&n=13" width="120" style="border-radius: 50%;" />
-
-# toskune
-
 Full-stack developer focused on creating fast, reliable web platforms and premium UI/UX.
 
 **Frontend**: TypeScript, Vue, Nuxt  
