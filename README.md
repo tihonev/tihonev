@@ -25,21 +25,6 @@ Full-stack developer focused on creating fast, reliable web platforms and premiu
 ---
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=vue&hide_border=true&langs_count=6" />
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toskune&layout=donut&theme=dark&hide_border=true&langs_count=6" width="400" />
-        </picture>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toskune&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toskune&theme=vue&hide_border=true&ring=6366f1&fire=6366f1" />
